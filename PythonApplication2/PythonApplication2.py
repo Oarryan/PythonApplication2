@@ -25,6 +25,8 @@ Cents = soup.findAll('span', attrs={'class':'Price-mantissa'})
 #print ()
 
 
+# Apparently need to check for Out of Stock / Limited Stock / and whatever "I've never heard of that item is" (nul)
+
 for item in soup.findAll('div',{'class':'stockStatus'}):
 	print (item.string)
 
