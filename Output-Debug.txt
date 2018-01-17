@@ -1,0 +1,425 @@
+﻿Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+Standard library module invoked user code during import; breakpoints disabled for invoked code.
+['444', '2221', '138', '179', '86', '2702', '1009', '379', '78', '46', '845', '89', '815', '79', '59', '267', '13', '17', '28', '72', '338', '48', '90', '7249', '368', '5261', '50', '914', '92', '56', '2175', '11', '32', '4381', '2', '76', '14', '101']
+['springfield-mo', 'springfield-mo', 'springfield-mo', 'springfield-mo', 'springfield-mo', 'nixa-mo', 'republic-mo', 'ozark-mo', 'marshfield-mo', 'bolivar-mo', 'buffalo-mo', 'camdenton-mo', 'osage-beach-mo', 'joplin-mo', 'joplin-mo', 'webb-city-mo', 'carthage-mo', 'neosho-mo', 'miami-ok', 'pittsburg-ks', 'lamar-mo', 'monett-mo', 'grove-ok', 'mount-vernon-mo', 'parsons-ks', 'pineville-mo', 'vinita-ok', 'cassville-mo', 'aurora-mo', 'ava-mo', 'branson-west-mo', 'mountain-home-ar', 'branson-mo', 'branson-mo', 'harrison-ar', 'berryville-ar', 'lebanon-mo', 'rolla-mo']
+['744476384164', '072179224945', '848061038828']
+springfield-mo
+stockStatus Out of Stock
+https://www.walmart.com/store/444/springfield-mo/search?query=744476384164
+4.88
+springfield-mo
+https://www.walmart.com/store/444/springfield-mo/search?query=072179224945
+No.Results
+springfield-mo
+https://www.walmart.com/store/444/springfield-mo/search?query=848061038828
+No.Results
+springfield-mo
+https://www.walmart.com/store/2221/springfield-mo/search?query=744476384164
+No.Results
+springfield-mo
+https://www.walmart.com/store/2221/springfield-mo/search?query=072179224945
+No.Results
+springfield-mo
+https://www.walmart.com/store/2221/springfield-mo/search?query=848061038828
+No.Results
+springfield-mo
+https://www.walmart.com/store/138/springfield-mo/search?query=744476384164
+No.Results
+springfield-mo
+https://www.walmart.com/store/138/springfield-mo/search?query=072179224945
+No.Results
+springfield-mo
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/138/springfield-mo/search?query=848061038828
+15.00
+springfield-mo
+https://www.walmart.com/store/179/springfield-mo/search?query=744476384164
+No.Results
+springfield-mo
+https://www.walmart.com/store/179/springfield-mo/search?query=072179224945
+No.Results
+springfield-mo
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/179/springfield-mo/search?query=848061038828
+15.00
+springfield-mo
+https://www.walmart.com/store/86/springfield-mo/search?query=744476384164
+No.Results
+springfield-mo
+https://www.walmart.com/store/86/springfield-mo/search?query=072179224945
+No.Results
+springfield-mo
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/86/springfield-mo/search?query=848061038828
+15.00
+nixa-mo
+https://www.walmart.com/store/2702/nixa-mo/search?query=744476384164
+No.Results
+nixa-mo
+https://www.walmart.com/store/2702/nixa-mo/search?query=072179224945
+No.Results
+nixa-mo
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/2702/nixa-mo/search?query=848061038828
+15.00
+republic-mo
+https://www.walmart.com/store/1009/republic-mo/search?query=744476384164
+No.Results
+republic-mo
+https://www.walmart.com/store/1009/republic-mo/search?query=072179224945
+No.Results
+republic-mo
+https://www.walmart.com/store/1009/republic-mo/search?query=848061038828
+No.Results
+ozark-mo
+https://www.walmart.com/store/379/ozark-mo/search?query=744476384164
+No.Results
+ozark-mo
+https://www.walmart.com/store/379/ozark-mo/search?query=072179224945
+No.Results
+ozark-mo
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/379/ozark-mo/search?query=848061038828
+5.00
+marshfield-mo
+https://www.walmart.com/store/78/marshfield-mo/search?query=744476384164
+No.Results
+marshfield-mo
+https://www.walmart.com/store/78/marshfield-mo/search?query=072179224945
+No.Results
+marshfield-mo
+https://www.walmart.com/store/78/marshfield-mo/search?query=848061038828
+No.Results
+bolivar-mo
+https://www.walmart.com/store/46/bolivar-mo/search?query=744476384164
+No.Results
+bolivar-mo
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/46/bolivar-mo/search?query=072179224945
+2.50
+bolivar-mo
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/46/bolivar-mo/search?query=848061038828
+15.00
+buffalo-mo
+https://www.walmart.com/store/845/buffalo-mo/search?query=744476384164
+No.Results
+buffalo-mo
+https://www.walmart.com/store/845/buffalo-mo/search?query=072179224945
+No.Results
+buffalo-mo
+https://www.walmart.com/store/845/buffalo-mo/search?query=848061038828
+No.Results
+camdenton-mo
+https://www.walmart.com/store/89/camdenton-mo/search?query=744476384164
+No.Results
+camdenton-mo
+https://www.walmart.com/store/89/camdenton-mo/search?query=072179224945
+No.Results
+camdenton-mo
+https://www.walmart.com/store/89/camdenton-mo/search?query=848061038828
+No.Results
+osage-beach-mo
+https://www.walmart.com/store/815/osage-beach-mo/search?query=744476384164
+No.Results
+osage-beach-mo
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/815/osage-beach-mo/search?query=072179224945
+2.50
+osage-beach-mo
+https://www.walmart.com/store/815/osage-beach-mo/search?query=848061038828
+No.Results
+joplin-mo
+https://www.walmart.com/store/79/joplin-mo/search?query=744476384164
+No.Results
+joplin-mo
+https://www.walmart.com/store/79/joplin-mo/search?query=072179224945
+No.Results
+joplin-mo
+https://www.walmart.com/store/79/joplin-mo/search?query=848061038828
+No.Results
+joplin-mo
+https://www.walmart.com/store/59/joplin-mo/search?query=744476384164
+No.Results
+joplin-mo
+https://www.walmart.com/store/59/joplin-mo/search?query=072179224945
+No.Results
+joplin-mo
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/59/joplin-mo/search?query=848061038828
+15.00
+webb-city-mo
+https://www.walmart.com/store/267/webb-city-mo/search?query=744476384164
+No.Results
+webb-city-mo
+https://www.walmart.com/store/267/webb-city-mo/search?query=072179224945
+No.Results
+webb-city-mo
+https://www.walmart.com/store/267/webb-city-mo/search?query=848061038828
+No.Results
+carthage-mo
+https://www.walmart.com/store/13/carthage-mo/search?query=744476384164
+No.Results
+carthage-mo
+https://www.walmart.com/store/13/carthage-mo/search?query=072179224945
+No.Results
+carthage-mo
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/13/carthage-mo/search?query=848061038828
+19.88
+neosho-mo
+https://www.walmart.com/store/17/neosho-mo/search?query=744476384164
+No.Results
+neosho-mo
+https://www.walmart.com/store/17/neosho-mo/search?query=072179224945
+No.Results
+neosho-mo
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/17/neosho-mo/search?query=848061038828
+15.00
+miami-ok
+https://www.walmart.com/store/28/miami-ok/search?query=744476384164
+No.Results
+miami-ok
+https://www.walmart.com/store/28/miami-ok/search?query=072179224945
+No.Results
+miami-ok
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/28/miami-ok/search?query=848061038828
+19.88
+pittsburg-ks
+https://www.walmart.com/store/72/pittsburg-ks/search?query=744476384164
+No.Results
+pittsburg-ks
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/72/pittsburg-ks/search?query=072179224945
+2.50
+pittsburg-ks
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/72/pittsburg-ks/search?query=848061038828
+15.00
+lamar-mo
+https://www.walmart.com/store/338/lamar-mo/search?query=744476384164
+No.Results
+lamar-mo
+https://www.walmart.com/store/338/lamar-mo/search?query=072179224945
+No.Results
+lamar-mo
+https://www.walmart.com/store/338/lamar-mo/search?query=848061038828
+No.Results
+monett-mo
+https://www.walmart.com/store/48/monett-mo/search?query=744476384164
+No.Results
+monett-mo
+https://www.walmart.com/store/48/monett-mo/search?query=072179224945
+No.Results
+monett-mo
+https://www.walmart.com/store/48/monett-mo/search?query=848061038828
+No.Results
+grove-ok
+https://www.walmart.com/store/90/grove-ok/search?query=744476384164
+No.Results
+grove-ok
+https://www.walmart.com/store/90/grove-ok/search?query=072179224945
+No.Results
+grove-ok
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/90/grove-ok/search?query=848061038828
+5.00
+mount-vernon-mo
+https://www.walmart.com/store/7249/mount-vernon-mo/search?query=744476384164
+No.Results
+mount-vernon-mo
+https://www.walmart.com/store/7249/mount-vernon-mo/search?query=072179224945
+No.Results
+mount-vernon-mo
+https://www.walmart.com/store/7249/mount-vernon-mo/search?query=848061038828
+No.Results
+parsons-ks
+https://www.walmart.com/store/368/parsons-ks/search?query=744476384164
+No.Results
+parsons-ks
+https://www.walmart.com/store/368/parsons-ks/search?query=072179224945
+No.Results
+parsons-ks
+https://www.walmart.com/store/368/parsons-ks/search?query=848061038828
+No.Results
+pineville-mo
+https://www.walmart.com/store/5261/pineville-mo/search?query=744476384164
+No.Results
+pineville-mo
+https://www.walmart.com/store/5261/pineville-mo/search?query=072179224945
+No.Results
+pineville-mo
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/5261/pineville-mo/search?query=848061038828
+15.00
+vinita-ok
+https://www.walmart.com/store/50/vinita-ok/search?query=744476384164
+No.Results
+vinita-ok
+https://www.walmart.com/store/50/vinita-ok/search?query=072179224945
+No.Results
+vinita-ok
+https://www.walmart.com/store/50/vinita-ok/search?query=848061038828
+No.Results
+cassville-mo
+https://www.walmart.com/store/914/cassville-mo/search?query=744476384164
+No.Results
+cassville-mo
+https://www.walmart.com/store/914/cassville-mo/search?query=072179224945
+No.Results
+cassville-mo
+https://www.walmart.com/store/914/cassville-mo/search?query=848061038828
+No.Results
+aurora-mo
+https://www.walmart.com/store/92/aurora-mo/search?query=744476384164
+No.Results
+aurora-mo
+https://www.walmart.com/store/92/aurora-mo/search?query=072179224945
+No.Results
+aurora-mo
+https://www.walmart.com/store/92/aurora-mo/search?query=848061038828
+No.Results
+ava-mo
+https://www.walmart.com/store/56/ava-mo/search?query=744476384164
+No.Results
+ava-mo
+https://www.walmart.com/store/56/ava-mo/search?query=072179224945
+No.Results
+ava-mo
+https://www.walmart.com/store/56/ava-mo/search?query=848061038828
+No.Results
+branson-west-mo
+https://www.walmart.com/store/2175/branson-west-mo/search?query=744476384164
+No.Results
+branson-west-mo
+https://www.walmart.com/store/2175/branson-west-mo/search?query=072179224945
+No.Results
+branson-west-mo
+https://www.walmart.com/store/2175/branson-west-mo/search?query=848061038828
+No.Results
+mountain-home-ar
+https://www.walmart.com/store/11/mountain-home-ar/search?query=744476384164
+No.Results
+mountain-home-ar
+https://www.walmart.com/store/11/mountain-home-ar/search?query=072179224945
+No.Results
+mountain-home-ar
+https://www.walmart.com/store/11/mountain-home-ar/search?query=848061038828
+No.Results
+branson-mo
+https://www.walmart.com/store/32/branson-mo/search?query=744476384164
+No.Results
+branson-mo
+https://www.walmart.com/store/32/branson-mo/search?query=072179224945
+No.Results
+branson-mo
+https://www.walmart.com/store/32/branson-mo/search?query=848061038828
+No.Results
+branson-mo
+https://www.walmart.com/store/4381/branson-mo/search?query=744476384164
+No.Results
+branson-mo
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/4381/branson-mo/search?query=072179224945
+2.50
+branson-mo
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/4381/branson-mo/search?query=848061038828
+15.00
+harrison-ar
+https://www.walmart.com/store/2/harrison-ar/search?query=744476384164
+No.Results
+harrison-ar
+https://www.walmart.com/store/2/harrison-ar/search?query=072179224945
+No.Results
+harrison-ar
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/2/harrison-ar/search?query=848061038828
+15.00
+berryville-ar
+https://www.walmart.com/store/76/berryville-ar/search?query=744476384164
+No.Results
+berryville-ar
+https://www.walmart.com/store/76/berryville-ar/search?query=072179224945
+No.Results
+berryville-ar
+stockStatus None
+stockStatus-limitedStock Limited Stock
+https://www.walmart.com/store/76/berryville-ar/search?query=848061038828
+15.00
+lebanon-mo
+https://www.walmart.com/store/14/lebanon-mo/search?query=744476384164
+No.Results
+lebanon-mo
+https://www.walmart.com/store/14/lebanon-mo/search?query=072179224945
+No.Results
+lebanon-mo
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/14/lebanon-mo/search?query=848061038828
+15.00
+rolla-mo
+stockStatus Out of Stock
+https://www.walmart.com/store/101/rolla-mo/search?query=744476384164
+4.88
+rolla-mo
+https://www.walmart.com/store/101/rolla-mo/search?query=072179224945
+No.Results
+rolla-mo
+stockStatus None
+stockStatus-available In Stock
+https://www.walmart.com/store/101/rolla-mo/search?query=848061038828
+15.00
+The thread 'MainThread' (0x2878) has exited with code 0 (0x0).
